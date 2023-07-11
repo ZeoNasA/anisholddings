@@ -5,6 +5,7 @@ include "COMPONENT/header.php";
 <div class="p-7 m-7 rounded-lg bg-blue-500">
   <div class="mb-5"><p class="text-lg font-medium text-xs leading-tight uppercase text-white mb-7">ANISHOLDINGS SDN.BHD</p></div>
     <a class="p-3 font-medium text-xs leading-tight uppercase bg-green-500 text-white rounded-lg" href="tambahpekerja.php">Add</a>
+    <a class="p-3 font-medium text-xs leading-tight uppercase bg-green-500 text-white rounded-lg" href="log.php">Logout</a>
 </div>
 <center><p class="text-white">PEKERJA LIST</p></center>
 <div class="px-8 pb-6 mt-4 flex flex-col ">
